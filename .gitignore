@@ -87,3 +87,20 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Configs
+config.json
+config/config.json
+config.php
+
+# Logs
+logs/
+
+# Input Files
+input/
+
+# Output Files
+output/
+
+# Ignore Directories
+
