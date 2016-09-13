@@ -8,3 +8,4 @@ A small set of scripts for parsing out sgRNAs from Sequences
 + **config** - Contains config.json files for application settings
 + **input** - Contains files that will be parsed out for sgRNA sites
 + **output** - Contains files that will be created containing sgRNA sites mapped to identifiers
++ **bin** - Shell scripts for performing specific automated tasks
